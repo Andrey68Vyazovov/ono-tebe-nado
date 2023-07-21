@@ -5,11 +5,10 @@
 }
 
 body {
-  width: 100%; /*возможно временно, вопрос адаптивности*/
+  width: 100%; 
   min-width: 1100px;
   margin: 0;
   font-family: Raleway, sans-serif;
-  background-color: rgb(133, 133, 133); /* убрать, технический цвет*/
 }
 
 h1,
