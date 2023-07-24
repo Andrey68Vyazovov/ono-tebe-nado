@@ -193,7 +193,7 @@
   display: block;
 }
 
-@media (min-width: 700px) and (max-width: 1500px) {
+@media (min-width: 1101px) and (max-width: 1500px) {
   .lots__card-list-item:last-child {
     grid-column: span 2;
   }
