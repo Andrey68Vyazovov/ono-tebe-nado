@@ -175,6 +175,9 @@
   grid-column: 1 / span 3;
   grid-row: 1/ 2;
   padding: 0 40px;
+}
+
+.lots__heading h2 {
   font-weight: 700;
   font-size: 40px;
   line-height: normal;
