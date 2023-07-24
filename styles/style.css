@@ -183,7 +183,7 @@
 
 .lots__card-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(410px, 1fr));
   grid-auto-flow: dense;
   list-style-type: none;
   grid-gap: 25px;
@@ -193,7 +193,7 @@
   display: block;
 }
 
-@media (min-width: 700px) and (max-width: 1440px) {
+@media (min-width: 100px) and (max-width: 1439px) {
   .lots__card-list-item:last-child {
     grid-column: span 2;
   }
