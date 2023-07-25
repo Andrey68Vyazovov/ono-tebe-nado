@@ -73,7 +73,7 @@
   position: relative;
   padding: 165px 50px 62px;
   color: #ffffff;
-  background: url(../images/cover.jpg) no-repeat center / cover;
+  background: url(../images/cover.jpg) no-repeat center/cover;
   background-position: 0 -17px;
 }
 
