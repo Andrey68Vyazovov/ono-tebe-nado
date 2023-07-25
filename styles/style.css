@@ -21,7 +21,8 @@
 
 .header__logo {
   position: relative;
-  right: 73px;
+  right: 74px;
+  bottom: 1px;
   width: 148px;
   height: 105px;
 }
@@ -334,13 +335,13 @@
   list-style: none;
 }
 
-.footer__menu-link_active {
-  text-decoration: none;
-}
-
 .footer__menu-link {
   text-decoration-skip-ink: none;
   text-underline-offset: 3px;
+}
+
+.footer__menu-link_active {
+  text-decoration: none;
 }
 
 .footer__social-list {
