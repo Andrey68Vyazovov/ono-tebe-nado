@@ -21,7 +21,7 @@
 
 .header__logo {
   position: relative;
-  right: 75px;
+  right: 73px;
   width: 148px;
   height: 105px;
 }
@@ -53,7 +53,7 @@
 
 .address {
   width: 100%;
-  max-width: 245px;
+  max-width: 240px;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
